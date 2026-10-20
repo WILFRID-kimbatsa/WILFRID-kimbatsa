@@ -45,7 +45,7 @@ Je construis progressivement un portfolio de projets autour de :
 ## 📫 Me contacter
 
 - GitHub : [Mon profil](https://github.com/)
-- LinkedIn : ajoute ici le lien de ton profil LinkedIn.
+- LinkedIn : https://www.linkedin.com/in/wilfrid-kimbatsab/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXrtbzaH4TMSsDdkdIdv0Vw%3D%3D
 
 ---
 
